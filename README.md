@@ -4,6 +4,8 @@
 
 
 Bu proje, C# programlama dili kullanılarak geliştirilmiş bir yapay sinir ağı (YSA) uygulamasını içerir. Proje, Windows Form App kullanılarak geliştirilmiş olup nesne yönelimli programlama ilkelerine bağlı olarak kodlanmıştır.
+
+
 ![Forograf](/ph.png)
 
 ## 📝 Proje Açıklaması
